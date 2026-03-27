@@ -1,9 +1,7 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Group+ICT+Manager;ERP+Functional+Consultant;Building+Systems+That+Work)
-
 # Hi there 👋
 
 I'm **Cleophas Ouma**  
-💻 Group ICT Manager | ERP Functional Consultant | Tech Enthusiast  
+💻 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7B42C&lines=Group+ICT+Manager;ERP+Functional+Consultant;Building+Systems+That+Work) 
 
 ---
 
@@ -73,7 +71,3 @@ Improved system reliability, reduced downtime, and strengthened security control
 ## ⚡ Fun Fact
 
 I don’t just work with systems, I fix how businesses actually run through them.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chrisakhula&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisakhula&layout=compact&theme=tokyonight)
